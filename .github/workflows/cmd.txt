@@ -1,0 +1,15 @@
+la@DESKTOP-DKKBAIU:/mnt/c/Users/PAMELA/Desktop/devops_10alytics$ history
+    1  sudo apt update && apt upgrade -y
+    2  exit
+    3  sudo apt update && apt upgrade -y
+    4  sudo apt update && sudo apt upgrade -y
+    5  hostname
+    6  pwd
+    7  mkdir
+    8   ls
+    9   ls -a
+    10  ls -lhar
+    11  ipconfig
+    12  ip addr show
+    13  if config
+    14  history
